@@ -16,4 +16,4 @@ export PATH=/opt/homebrew/bin/:$PATH
 ![Example](./assets/example.png)
 ![Example](./assets/workflow.png)
 
-[Download workflow](https://github.com/DrSkunk/alfred-lofi-girl-stream-workflowraw/main/LofiGirlstream.alfredworkflow)
+[Download workflow](https://github.com/DrSkunk/alfred-lofi-girl-stream-workflow/raw/main/LofiGirlstream.alfredworkflow)
