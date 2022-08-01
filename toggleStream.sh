@@ -6,5 +6,5 @@ then
 	killall mpv
 else
 	echo "Starting lofi beats"
-	mpv --no-video https://www.youtube.com/watch\?v\=DWcJFNfaw9c &
+	mpv --no-video https://www.youtube.com/watch\?v\=jfKfPfyJRdk &
 fi
